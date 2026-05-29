@@ -1,6 +1,6 @@
 # Hi, I'm Bernardo 👋
 
-## 🚀 Developer • Builder • Future Founder
+## 🚀 Developer • Builder 
 
 🎓 CSE Student at Sathyabama Institute of Science & Technology
 
