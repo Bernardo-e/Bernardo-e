@@ -96,16 +96,6 @@ A collection of experiments, prototypes, and future product ideas.
 🔹 Real-World Problem Solving
 
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-e&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
