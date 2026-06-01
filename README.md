@@ -63,17 +63,6 @@ A centralized place for sharing and accessing academic resources.
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Master JavaScript
-- [ ] Learn React
-- [ ] Learn Node.js
-- [ ] Learn MongoDB
-- [ ] Deploy 10 Projects
-- [ ] Build Sathyabama Connect MVP
-- [ ] Get a Software Internship
-- [ ] Reach 500+ GitHub Contributions
-
 ---
 
 ## 📊 GitHub Analytics
