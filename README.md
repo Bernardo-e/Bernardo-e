@@ -1,62 +1,124 @@
-# Hi, I'm Bernardo 👋
+<h1 align="center">🚀 BERD</h1>
 
-## 🚀 Developer • Builder 
+<h3 align="center">Developer • Builder • Future Founder</h3>
 
-🎓 CSE Student at Sathyabama Institute of Science & Technology
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Learning+Full-Stack+Development;Building+Products+That+Matter" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 CSE Student @ Sathyabama Institute of Science & Technology
 
 💻 Learning Full-Stack Development
 
 🌱 Exploring AI & Cloud Computing
 
-🚀 Building products and real-world solutions
+🚀 Building real-world projects and products
 
-🎯 Goal: Become a Software Engineer & Founder
+📍 Chennai, India
 
-<h2>🛠️ Tech Stack</h2>
+🎯 Goal: Become a Software Engineer and build impactful startups
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,firebase&perline=7" />
 </p>
 
+---
 
 ## 📚 Currently Learning
 
 - JavaScript
-- React
+- React.js
 - Node.js
 - MongoDB
 - Cloud Computing
+- System Design
 
-## 🚀 Projects
+---
 
-🔹 Portfolio Website
+## 🚀 Current Projects
 
-🔹 Cute To-Do App
+### 📚 Sathyabama Connect
+Student ecosystem platform for notes, events, clubs, and opportunities.
 
-🔹 Student Notes Sharing Platform
+### 🌐 Personal Portfolio
+Modern developer portfolio with immersive UI and animations.
 
-🔹 AI Projects
+### 🤖 AI Tools
+Building AI-powered productivity and student tools.
 
-## 🐍 Contribution Snake
+### 📝 Student Notes Platform
+A centralized place for sharing and accessing academic resources.
 
-![Snake animation](https://github.com/Bernardo-e/Bernardo-e/blob/output/github-contribution-grid-snake.svg)
+---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
 
-![](https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true)
+- [ ] Master JavaScript
+- [ ] Learn React
+- [ ] Learn Node.js
+- [ ] Learn MongoDB
+- [ ] Deploy 10 Projects
+- [ ] Build Sathyabama Connect MVP
+- [ ] Get a Software Internship
+- [ ] Reach 500+ GitHub Contributions
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e)
+---
 
-![](https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views)
+## 📊 GitHub Analytics
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=tokyo-night)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-e&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 Contribution Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bernardo-e&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/bernardo-e-092aaa387)
+💼 LinkedIn:
+https://www.linkedin.com/in/bernardo-e-092aaa387
 
-[GitHub](https://github.com/Bernardo-e)
+🐙 GitHub:
+https://github.com/Bernardo-e
+
+---
+
+> "Dream Big. Build Bigger."
+>
+> — BERD 🚀
