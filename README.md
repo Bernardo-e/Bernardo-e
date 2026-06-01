@@ -37,13 +37,23 @@
 
 🔹 AI Projects
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Bernardo-e/Bernardo-e/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e)
 
-![](https://komarev.com/ghpvc/?username=Bernardo-e)
+![](https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=tokyo-night)
+
+## 📈 Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e)
 
 ## 🌐 Connect With Me
 
