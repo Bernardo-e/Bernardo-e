@@ -1,51 +1,61 @@
 # Hi, I'm Bernardo 👋
 
-## 🚀 Developer • Builder • Future Founder
+## 🚀 Developer • Builder 
 
 🎓 CSE Student at Sathyabama Institute of Science & Technology
 
-💻 Passionate about Software Development
+💻 Learning Full-Stack Development
 
-🌱 Exploring AI, Cloud Computing & Emerging Technologies
+🌱 Exploring AI & Cloud Computing
 
-🚀 Building products and turning ideas into reality
+🚀 Building products and real-world solutions
 
-🎯 Aspiring Software Engineer & Entrepreneur
+🎯 Goal: Become a Software Engineer & Founder
 
----
+<h2>🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
-
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
----
+
+## 📚 Currently Learning
+
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Cloud Computing
 
 ## 🚀 Projects
 
 🔹 Portfolio Website
 
-🔹 Full-Stack Applications
+🔹 Cute To-Do App
 
-🔹 AI-Powered Solutions
+🔹 Student Notes Sharing Platform
 
-🔹 Product Experiments
+🔹 AI Projects
 
----
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Bernardo-e/Bernardo-e/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e)
+
+![](https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views)
+
+
+## 📈 Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e)
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn
+[LinkedIn](www.linkedin.com/in/bernardo-e-092aaa387)
 
-https://www.linkedin.com/in/bernardo-e-092aaa387
-
-🐙 GitHub
-
-https://github.com/Bernardo-e
-
----
-
-> Dream Big. Build Bigger.
->
-> 🚀 BERD
+[GitHub](https://github.com/Bernardo-e)
