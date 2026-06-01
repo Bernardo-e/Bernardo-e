@@ -1,61 +1,139 @@
-# Hi, I'm Bernardo 👋
+<h1 align="center">🚀 BERD</h1>
 
-## 🚀 Developer • Builder 
+<h3 align="center">Developer • Builder • Future Founder</h3>
 
-🎓 CSE Student at Sathyabama Institute of Science & Technology
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Building+Products+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 CSE Student @ Sathyabama Institute of Science & Technology
 
 💻 Learning Full-Stack Development
 
 🌱 Exploring AI & Cloud Computing
 
-🚀 Building products and real-world solutions
+🚀 Building real-world projects and products
 
-🎯 Goal: Become a Software Engineer & Founder
+📍 Chennai, India
 
-<h2>🛠️ Tech Stack</h2>
+🎯 Goal: Become a Software Engineer and build impactful startups
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,firebase&perline=7" />
 </p>
 
+---
 
 ## 📚 Currently Learning
 
 - JavaScript
-- React
+- React.js
 - Node.js
 - MongoDB
 - Cloud Computing
+- System Design
 
-## 🚀 Projects
+---
+🚀 The BERD Ecosystem
+🌐 BERD Portfolio
 
-🔹 Portfolio Website
+My personal digital space showcasing projects, skills, and journey.
 
-🔹 Cute To-Do App
+✅ BERD Todo
 
-🔹 Student Notes Sharing Platform
+A productivity-focused task management application.
 
-🔹 AI Projects
+📊 BERD Track
 
-## 🐍 Contribution Snake
+A habit, productivity, and progress tracking platform.
 
-![Snake animation](https://github.com/Bernardo-e/Bernardo-e/blob/output/github-contribution-grid-snake.svg)
+🔐 BERD Vault
 
-## 📊 GitHub Stats
+A secure digital workspace for storing and managing information.
 
-![](https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true)
+📚 Sathyabama Connect
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e)
+A student ecosystem platform connecting opportunities, clubs, events, and academic resources.
 
-![](https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views)
+📝 Student Notes Platform
 
+A collaborative learning platform for academic resource sharing.
+
+🤖 BERD AI
+
+AI-powered tools and experiments designed to solve real-world problems.
+
+🚀 BERD Labs
+
+A collection of experiments, prototypes, and future product ideas.
+
+🎯 What I Build
+
+🔹 Full-Stack Applications
+
+🔹 AI-Powered Solutions
+
+🔹 Productivity Tools
+
+🔹 Educational Platforms
+
+🔹 Cloud-Based Systems
+
+🔹 Startup Products
+
+🔹 Real-World Problem Solving
+
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-e&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 Contribution Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=tokyo-night" />
+</p>
+
+
+---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/bernardo-e-092aaa387)
+💼 LinkedIn:
+https://www.linkedin.com/in/bernardo-e-092aaa387
 
-[GitHub](https://github.com/Bernardo-e)
+🐙 GitHub:
+https://github.com/Bernardo-e
+
+---
+
+> "Dream Big. Build Bigger."
+>
+> — BERD 🚀
