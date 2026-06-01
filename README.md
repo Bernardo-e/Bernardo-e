@@ -2,9 +2,11 @@
 
 <h3 align="center">Developer • Builder • Future Founder</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Learning+Full-Stack+Development;Building+Products+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Building+Products+Every+Day" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views&style=for-the-badge" />
@@ -93,7 +95,7 @@ A centralized place for sharing and accessing academic resources.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bernardo-e&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bernardo-e" />
 </p>
 
 ---
