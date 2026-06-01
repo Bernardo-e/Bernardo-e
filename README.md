@@ -1,32 +1,22 @@
-<h1 align="center">🚀 BERD</h1>
+<h1 align="center">Hi 👋, I'm Bernardo</h1>
 
-<h3 align="center">Developer • Builder • Future Founder</h3>
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Building+Products+Every+Day" />
-</p>
-
+<h3 align="center">🚀 Developer • Builder • Future Founder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bernardo-e&label=Profile+Views&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Creating+Products+That+Matter" />
 </p>
 
 ---
 
-## 🚀 About Me
+🎓 CSE Student at Sathyabama Institute of Science & Technology
 
-🎓 CSE Student @ Sathyabama Institute of Science & Technology
+💻 Passionate about Software Development
 
-💻 Learning Full-Stack Development
+🌱 Exploring AI, Cloud Computing & Emerging Technologies
 
-🌱 Exploring AI & Cloud Computing
+🚀 Building products and turning ideas into reality
 
-🚀 Building real-world projects and products
-
-📍 Chennai, India
-
-🎯 Goal: Become a Software Engineer and build impactful startups
+🎯 Aspiring Software Engineer & Entrepreneur
 
 ---
 
@@ -38,39 +28,49 @@
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Projects
 
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
-- Cloud Computing
-- System Design
+🔹 Portfolio Website
 
----
+🔹 Student Notes Sharing Platform
 
-## 🚀 Current Projects
+🔹 Full-Stack Applications
 
-### 📚 Sathyabama Connect
-Student ecosystem platform for notes, events, clubs, and opportunities.
+🔹 AI-Powered Solutions
 
-### 🌐 Personal Portfolio
-Modern developer portfolio with immersive UI and animations.
-
-### 🤖 AI Tools
-Building AI-powered productivity and student tools.
-
-### 📝 Student Notes Platform
-A centralized place for sharing and accessing academic resources.
+🔹 Product Experiments
 
 ---
 
----
-
-## 🔥 Contribution Streak
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e&theme=tokyonight" />
+Coming Soon 🚀
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bernardo-e&show_icons=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-e&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-e&theme=github-dark-blue" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Bernardo-e&label=Visitors&style=for-the-badge" />
 </p>
 
 ---
@@ -78,25 +78,27 @@ A centralized place for sharing and accessing academic resources.
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-e&theme=github-dark" />
 </p>
-
----
-
--
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
+
 https://www.linkedin.com/in/bernardo-e-092aaa387
 
-🐙 GitHub:
+🐙 GitHub
+
 https://github.com/Bernardo-e
 
 ---
 
-> "Dream Big. Build Bigger."
->
-> — BERD 🚀
+<p align="center">
+<i>"Dream Big. Build Bigger."</i>
+</p>
+
+<p align="center">
+🚀 BERD
+</p>
