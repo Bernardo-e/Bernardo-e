@@ -1,9 +1,9 @@
 <h1 align="center">🚀 BERD</h1>
 
-<h3 align="center">Developer • Builder • Future Founder</h3>
+<h3 align="center">Developer • Builder </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Future+Founder+🌟;Building+Products+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Developer+💻;Builder+🚀;Building+Products+Every+Day🌟" />
 </p>
 
 <p align="center">
