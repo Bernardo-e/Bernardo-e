@@ -24,7 +24,7 @@
 
 📍 Chennai, India
 
-🎯 Goal: Become a Software Engineer and build impactful startups
+ My Portfolio: https://my-portfolio-bice-tau-wmc7eyp9dk.vercel.app/
 
 ---
 
